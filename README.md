@@ -6,3 +6,6 @@ Edit the bat file for both usernames at start like
 ``username=john101``
 and
 ``username2=doe101``
+
+
+Just open the file when you need to switch account.
