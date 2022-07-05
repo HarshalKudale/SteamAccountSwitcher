@@ -3,6 +3,6 @@ Switch between 2 steam accounts just by opening a file.
 
 First Login to both accounts one by one while selecting remember password.
 Edit the bat file for both usernames at start like
-``username=firstaccountusername``
+``username=csgoaccount``
 and
-``username2=secondaccountusername``
+``username2=forzaaccount``
